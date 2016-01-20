@@ -22,3 +22,5 @@ git remote -v
 git checkout -
 
 git diff HEAD~
+
+git show
