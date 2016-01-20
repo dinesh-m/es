@@ -24,3 +24,5 @@ git checkout -
 git diff HEAD~
 
 git show
+
+git branch 'new_branch_name' 1dfghcc or git checkout -b 'new_branch_name' 1dfghcc
