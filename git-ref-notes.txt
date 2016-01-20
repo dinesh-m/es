@@ -25,6 +25,7 @@ git diff HEAD~
 
 git show
 
+git branch
 git blame <file_name>
 
 git branch 'new_branch_name' 1dfghcc or git checkout -b 'new_branch_name' 1dfghcc
