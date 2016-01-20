@@ -20,3 +20,5 @@ git checkout {n} filename
 git remote -v
 
 git checkout -
+
+git show
