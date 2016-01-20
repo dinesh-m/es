@@ -24,3 +24,5 @@ git checkout -
 git diff HEAD~
 
 git show
+
+git blame <file_name>
