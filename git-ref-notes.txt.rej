@@ -1,0 +1,8 @@
+diff a/git-ref-notes.txt b/git-ref-notes.txt	(rejected hunks)
+@@ -17,5 +17,6 @@
+ git checkout filename
+ git checkout {n} filename
+ 
++git remote -v
+ 
+ 
