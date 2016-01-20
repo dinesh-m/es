@@ -17,5 +17,6 @@ git log -{n}
 git checkout filename
 git checkout {n} filename
 
+git remote -v
 
 
